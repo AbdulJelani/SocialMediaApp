@@ -1,0 +1,22 @@
+{
+    "posts":[
+        {
+           "id":1,
+            "title":"The Legacy",
+            "datetime": "july 01,2023 10:30:36 AM",
+            "body": "Hi,Today I got job at top MNC "
+          },
+          {
+            "id":2,
+           "title":"Travel",
+           "datetime":"today",
+            "body": "Going to Beach"
+          },
+          {
+           "id":3,
+            "title":"Vlog",
+            "datetime":"today",
+            "body": "Travelled to chennai"
+          }
+    ]
+}
